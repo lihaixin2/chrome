@@ -28,7 +28,7 @@ RUN set -x \
  && apt-get update \
  && apt-get upgrade -y \
  && apt-get install -y \
-	firefox \
+	firefox firefox-locale-zh-hans language-pack-zh-hans \
 	supervisor \
 	unzip \
 	vim \

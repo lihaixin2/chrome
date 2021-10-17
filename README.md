@@ -17,3 +17,19 @@ Profile Path	C:\Users\micro\AppData\Local\BBrowser\778badaa-a758-4f7c-bd18-16efd
 Variations	5e3a236d-59e286d0
 
 ```
+
+### 游览器代理
+
+```
+--user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.107 Safari/537.36"
+--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/85.0.4164.2 Chrome/85.0.4164.2 Safari/537.36"
+
+```
+
+### 其他特征
+
+```
+canvas noise real block
+audiocontext noise real
+```

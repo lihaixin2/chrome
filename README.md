@@ -33,3 +33,12 @@ Variations	5e3a236d-59e286d0
 canvas noise real block
 audiocontext noise real
 ```
+
+### 自动恢复上次会话
+
+```
+--restore-last-session  #恢复上次会话窗口
+
+更多参考
+https://www.cnblogs.com/yikemogutou/articles/12624113.html
+```
